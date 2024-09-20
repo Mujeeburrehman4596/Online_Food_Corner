@@ -1,0 +1,47 @@
+.menu-section {
+    background-color: #f8f9fa;
+}
+
+.menu-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.menu-section p {
+    font-size: 1.2rem;
+    margin-bottom: 40px;
+}
+
+.menu-item {
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.menu-item:last-child {
+    border-bottom: none;
+}
+
+.menu-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.menu-text h5 {
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+}
+
+.menu-text p {
+    font-size: 0.9rem;
+    color: #888;
+}
+
+.menu-item span {
+    color: #ff4500;
+    font-size: 1.1rem;
+}
+.box img{
+    align-items: center;
+}
